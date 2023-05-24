@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CONECTARSQL", "CONECTARSQL.csproj", "{F7039124-2FC4-436E-94F1-CAB303DC7567}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7039124-2FC4-436E-94F1-CAB303DC7567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7039124-2FC4-436E-94F1-CAB303DC7567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7039124-2FC4-436E-94F1-CAB303DC7567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7039124-2FC4-436E-94F1-CAB303DC7567}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7FCFE4E-B86D-457E-9A4E-9B9BF123106F}
+	EndGlobalSection
+EndGlobal
