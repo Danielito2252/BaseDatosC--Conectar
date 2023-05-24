@@ -34,7 +34,7 @@ namespace CONECTARSQL
             SqlDataAdapter da= new SqlDataAdapter("select * from Products",conn);
             DataTable dt = new DataTable();
             da.Fill(dt);
-            this .dataGridView1.DataSource = dt;    
+            this .dataGridView1.DataSource = dt;
         }
     }
 }
